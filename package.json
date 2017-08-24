@@ -1,0 +1,11 @@
+{
+  "name": "polymer3",
+  "flat": true,
+  "version": "1.0.0",
+  "description": "trying out polymer 3",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "next"
+  }
+}
